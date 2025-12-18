@@ -1,6 +1,9 @@
 ### Hi there, I'am Alexsander✌️
 
-- 👨‍✈️ Today I work with both front-end and back-end development.
+- 👨‍✈️ DevOps Engineer | AWS • Docker • CI/CD • Terraform
+Computer Science student
+Building cloud infrastructure and automation projects
+
 - 😶 Computer science student
 
 <br>
