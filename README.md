@@ -105,7 +105,7 @@ Building cloud infrastructure and automation projects
 <br>
 <br>
 
-![snake gif](https://github.com/Fubukinar/Fubukinar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fubukinar/fubukinar/blob/output/github-contribution-grid-snake.svg)
 
-[![readme].(https://github-readme-stats.vercel.app/api/pin/?username=Fubukinar&theme=react).].(https://github.com/Fubukinar/Fubukinar).
+.[![readme].(https://github-readme-stats.vercel.app/api/pin/?username=fubukinar&theme=react).].(https://github.com/fubukinar/fubukinar).
 
